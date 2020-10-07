@@ -1,0 +1,11 @@
+C:\Users\Viaremia\Desktop\dump\ООП\OOP4_WindowsForms\OOP4_WindowsForms\bin\Debug\OOP4_WindowsForms.exe.config
+C:\Users\Viaremia\Desktop\dump\ООП\OOP4_WindowsForms\OOP4_WindowsForms\bin\Debug\OOP4_WindowsForms.exe
+C:\Users\Viaremia\Desktop\dump\ООП\OOP4_WindowsForms\OOP4_WindowsForms\bin\Debug\OOP4_WindowsForms.pdb
+C:\Users\Viaremia\Desktop\dump\ООП\OOP4_WindowsForms\OOP4_WindowsForms\obj\Debug\OOP4_WindowsForms.csprojAssemblyReference.cache
+C:\Users\Viaremia\Desktop\dump\ООП\OOP4_WindowsForms\OOP4_WindowsForms\obj\Debug\OOP4_WindowsForms.Form1.resources
+C:\Users\Viaremia\Desktop\dump\ООП\OOP4_WindowsForms\OOP4_WindowsForms\obj\Debug\OOP4_WindowsForms.Form2.resources
+C:\Users\Viaremia\Desktop\dump\ООП\OOP4_WindowsForms\OOP4_WindowsForms\obj\Debug\OOP4_WindowsForms.Properties.Resources.resources
+C:\Users\Viaremia\Desktop\dump\ООП\OOP4_WindowsForms\OOP4_WindowsForms\obj\Debug\OOP4_WindowsForms.csproj.GenerateResource.cache
+C:\Users\Viaremia\Desktop\dump\ООП\OOP4_WindowsForms\OOP4_WindowsForms\obj\Debug\OOP4_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Viaremia\Desktop\dump\ООП\OOP4_WindowsForms\OOP4_WindowsForms\obj\Debug\OOP4_WindowsForms.exe
+C:\Users\Viaremia\Desktop\dump\ООП\OOP4_WindowsForms\OOP4_WindowsForms\obj\Debug\OOP4_WindowsForms.pdb

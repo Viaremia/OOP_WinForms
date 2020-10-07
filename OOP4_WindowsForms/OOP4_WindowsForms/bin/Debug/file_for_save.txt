@@ -1,0 +1,5 @@
+MarkovIPZOOP10
+KorkinIPZOOP7
+PolkoIPZOOP8
+LapkinIPZOOP6
+TalanaIPZOOP8
