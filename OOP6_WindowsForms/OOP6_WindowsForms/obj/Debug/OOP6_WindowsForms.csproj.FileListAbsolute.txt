@@ -1,0 +1,12 @@
+C:\Users\Viaremia\Desktop\dump\ООП\OOP6_WindowsForms\OOP6_WindowsForms\bin\Debug\OOP6_WindowsForms.exe.config
+C:\Users\Viaremia\Desktop\dump\ООП\OOP6_WindowsForms\OOP6_WindowsForms\bin\Debug\OOP6_WindowsForms.exe
+C:\Users\Viaremia\Desktop\dump\ООП\OOP6_WindowsForms\OOP6_WindowsForms\bin\Debug\OOP6_WindowsForms.pdb
+C:\Users\Viaremia\Desktop\dump\ООП\OOP6_WindowsForms\OOP6_WindowsForms\obj\Debug\OOP6_WindowsForms.csprojAssemblyReference.cache
+C:\Users\Viaremia\Desktop\dump\ООП\OOP6_WindowsForms\OOP6_WindowsForms\obj\Debug\OOP6_WindowsForms.Form1.resources
+C:\Users\Viaremia\Desktop\dump\ООП\OOP6_WindowsForms\OOP6_WindowsForms\obj\Debug\OOP6_WindowsForms.Properties.Resources.resources
+C:\Users\Viaremia\Desktop\dump\ООП\OOP6_WindowsForms\OOP6_WindowsForms\obj\Debug\OOP6_WindowsForms.csproj.GenerateResource.cache
+C:\Users\Viaremia\Desktop\dump\ООП\OOP6_WindowsForms\OOP6_WindowsForms\obj\Debug\OOP6_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Viaremia\Desktop\dump\ООП\OOP6_WindowsForms\OOP6_WindowsForms\obj\Debug\OOP6_WindowsForms.exe
+C:\Users\Viaremia\Desktop\dump\ООП\OOP6_WindowsForms\OOP6_WindowsForms\obj\Debug\OOP6_WindowsForms.pdb
+C:\Users\Viaremia\Desktop\dump\ООП\OOP6_WindowsForms\OOP6_WindowsForms\bin\Debug\FastReport.DLL
+C:\Users\Viaremia\Desktop\dump\ООП\OOP6_WindowsForms\OOP6_WindowsForms\obj\Debug\OOP6_WindowsForms.csproj.CopyComplete
