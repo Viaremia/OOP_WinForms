@@ -1,0 +1,10 @@
+C:\Users\Viaremia\Desktop\dump\ООП\OOP5_WindowsForms\OOP5_WindowsForms\bin\Debug\OOP5_WindowsForms.exe.config
+C:\Users\Viaremia\Desktop\dump\ООП\OOP5_WindowsForms\OOP5_WindowsForms\bin\Debug\OOP5_WindowsForms.exe
+C:\Users\Viaremia\Desktop\dump\ООП\OOP5_WindowsForms\OOP5_WindowsForms\bin\Debug\OOP5_WindowsForms.pdb
+C:\Users\Viaremia\Desktop\dump\ООП\OOP5_WindowsForms\OOP5_WindowsForms\obj\Debug\OOP5_WindowsForms.Form1.resources
+C:\Users\Viaremia\Desktop\dump\ООП\OOP5_WindowsForms\OOP5_WindowsForms\obj\Debug\OOP5_WindowsForms.Properties.Resources.resources
+C:\Users\Viaremia\Desktop\dump\ООП\OOP5_WindowsForms\OOP5_WindowsForms\obj\Debug\OOP5_WindowsForms.csproj.GenerateResource.cache
+C:\Users\Viaremia\Desktop\dump\ООП\OOP5_WindowsForms\OOP5_WindowsForms\obj\Debug\OOP5_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Viaremia\Desktop\dump\ООП\OOP5_WindowsForms\OOP5_WindowsForms\obj\Debug\OOP5_WindowsForms.exe
+C:\Users\Viaremia\Desktop\dump\ООП\OOP5_WindowsForms\OOP5_WindowsForms\obj\Debug\OOP5_WindowsForms.pdb
+C:\Users\Viaremia\Desktop\dump\ООП\OOP5_WindowsForms\OOP5_WindowsForms\obj\Debug\OOP5_WindowsForms.csprojAssemblyReference.cache
